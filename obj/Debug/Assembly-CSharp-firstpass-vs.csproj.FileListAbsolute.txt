@@ -1,0 +1,8 @@
+D:\Desktop Stuff\Unity Stuff\One Shot Ricochet Project\One Shot Ricochet\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Desktop Stuff\Unity Stuff\One Shot Ricochet Project\One Shot Ricochet\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Desktop Stuff\Unity Stuff\One Shot Ricochet Project\One Shot Ricochet\Temp\bin\Debug\UnityEditor.dll
+D:\Desktop Stuff\Unity Stuff\One Shot Ricochet Project\One Shot Ricochet\Temp\bin\Debug\UnityEngine.dll
+D:\Desktop Stuff\Unity Stuff\One Shot Ricochet Project\One Shot Ricochet\Temp\bin\Debug\nunit.framework.dll
+D:\Desktop Stuff\Unity Stuff\One Shot Ricochet Project\One Shot Ricochet\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Stuff\Unity Stuff\One Shot Ricochet Project\One Shot Ricochet\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Desktop Stuff\Unity Stuff\One Shot Ricochet Project\One Shot Ricochet\obj\Debug\Assembly-CSharp-firstpass.pdb
